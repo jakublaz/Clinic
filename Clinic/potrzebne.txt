@@ -1,0 +1,9 @@
+uruchomienie build w react: npm run build
+kopiowanie plików do wwwroot
+potem dotnet run
+
+del "D:\aa  studia\sem3\EGUI\23Z-EGUI-Laz-Jakub\Clinic\wwwroot\*"
+xcopy /s /y "D:\aa  studia\sem3\EGUI\23Z-EGUI-Laz-Jakub\Clinic\clientapp\build\" "D:\aa  studia\sem3\EGUI\23Z-EGUI-Laz-Jakub\Clinic\wwwroot\"
+
+
+2023-12-25T10:30:00
