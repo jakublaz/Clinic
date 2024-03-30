@@ -1,8 +1,8 @@
-#This is a program i have deleoped using Rest and C# web api.
+# This is a program i have deleoped using Rest and C# web api.
 
-##It's goal is to operate the clinic, it was written for univercity class. Lower are the requirements.
+## It's goal is to operate the clinic, it was written for univercity class. Lower are the requirements.
 
-###Requirements
+### Requirements
 
 List of doctors - each doctor has one specialty from the permanent list of specialties (home, ENT, dermatologist, ophthalmologist, neurologist, orthopedist, pediatrician).
 A doctor's account is set up by the manager.
