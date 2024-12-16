@@ -1,4 +1,4 @@
-# This is a program I have deleoped using Rest and C# web api.
+# This is a program I have deleoped using React and C# web api.
 
 ## It's goal is to operate the clinic, it was written for univercity class. Lower are the requirements.
 
